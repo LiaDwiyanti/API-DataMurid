@@ -3,11 +3,11 @@ API Data Murid adalah proyek Web API sederhana berbasis ASP.NET Core untuk menge
 
 ## Endpoint
 ### Autentikasi
-- POST /register
-- POST /login
+- `POST` /register
+- `POST` /login
 
 ### CRUD
-- GET /api/murid
-- POST /api/murid/add
-- PUT /api/murid/update/{muridID}
-- DELETE /api/murid/delete/{muridID}
+- `GET` /api/murid
+- `POST` /api/murid/add
+- `PUT` /api/murid/update/{muridID}
+- `DELETE` /api/murid/delete/{muridID}
