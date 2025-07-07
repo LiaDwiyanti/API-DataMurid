@@ -1,0 +1,6 @@
+@Manajemen_Data_Murid_HostAddress = http://localhost:5097
+
+GET {{Manajemen_Data_Murid_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
